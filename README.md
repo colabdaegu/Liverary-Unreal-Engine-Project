@@ -1,6 +1,6 @@
 # Liverary
 
-> live + library  
+> Live + library.  
 > 수수께끼의 도서관에서 펼쳐지는 모험  
 > 카드와 전략으로 스테이지를 정복하고 탈출을 노려라!
 
