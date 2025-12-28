@@ -1,5 +1,5 @@
 # Liverary
-
+![Preview](.git-Images/Liverary_icon.ico)
 > Live + library.  
 > 수수께끼의 도서관에서 펼쳐지는 모험  
 > 카드와 전략으로 스테이지를 정복하고 탈출을 노려라!
@@ -23,5 +23,3 @@
 - Engine: **Unreal Engine 4.27**
 - Platform: **PC**
 - Genre : **2D 횡스크롤 + 수집형 RPG + 전략형 카드 게임**
-
-![Preview](.git-Images/Liverary_icon.ico)
