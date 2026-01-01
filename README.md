@@ -19,7 +19,7 @@
 
 ---
 
-## 🏗️ 개발 정보
+## 🛠️ 개발 정보
 - Engine: **Unreal Engine 4.27**
 - Platform: **PC**
 - Genre : **2D 횡스크롤 + 수집형 RPG + 전략형 카드 게임**
